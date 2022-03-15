@@ -1,4 +1,4 @@
-# HangmanGame
+# Hangman Game
 
 
 This is an implementation for the known hangman game.
